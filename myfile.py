@@ -1,3 +1,4 @@
-# This is the sum additional text from feature A branch
+#This is the main line for main branch
 
-# this text will generate some merge conflict  
+# i am creating a python function 
+def function from main 
